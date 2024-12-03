@@ -17,7 +17,7 @@
         echo "Grade is 'B' ";
     }
     else{
-        echo "fail"
+        echo "fail";
     }
 
 ?>
